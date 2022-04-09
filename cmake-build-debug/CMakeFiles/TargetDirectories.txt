@@ -1,0 +1,3 @@
+C:/Users/48695/Desktop/PJATK/Semestr 2/PJC/Cwiczenia/Projekt/imageEditor/cmake-build-debug/CMakeFiles/imageEditor.dir
+C:/Users/48695/Desktop/PJATK/Semestr 2/PJC/Cwiczenia/Projekt/imageEditor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/48695/Desktop/PJATK/Semestr 2/PJC/Cwiczenia/Projekt/imageEditor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
